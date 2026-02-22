@@ -188,11 +188,11 @@
   },
   "books": {
     "count": 5,
-    "inventoryValue": 139669.37
+    "inventoryValue": 140750.5
   },
   "clothing": {
     "count": 5,
-    "inventoryValue": 137423.88
+    "inventoryValue": 117481.25
   },
   "electronics": {
     "count": 3,
@@ -200,7 +200,7 @@
   },
   "home": {
     "count": 4,
-    "inventoryValue": 118484.33
+    "inventoryValue":  128186.91
   }
 }
 }
