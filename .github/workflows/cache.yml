@@ -21,4 +21,6 @@ jobs:
           key: cache-d91149a
 
       - name: prime-cache-d91149a
-        run: echo "Cache hit: ${{ steps.cache-step.outputs.cache-hit }}"
+        run: |
+          echo "Cache hit status:"
+          echo "${{ steps.cache-step.outputs.cache-hit }}"
